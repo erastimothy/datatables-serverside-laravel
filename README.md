@@ -18,6 +18,8 @@ php artisan serve
 
 ## Screenshots
 
+![Debugbar](https://raw.github.com/erastimothy/datatables-serverside-laravel/main/public/ss/debugbar.png)
+
 ![Category Details](https://raw.github.com/erastimothy/datatables-serverside-laravel/main/public/ss/category-details.png)
 
 ![Books Create](https://raw.github.com/erastimothy/datatables-serverside-laravel/main/public/ss/books-create.png)
